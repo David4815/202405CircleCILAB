@@ -6,7 +6,7 @@
 
 ### Usage
 
-1. This project needs to following CircleCI Environment Variables:
+1. This project needs   to following CircleCI Environment Variables:
 
 ```
 AWS_REGION = us-east-1
